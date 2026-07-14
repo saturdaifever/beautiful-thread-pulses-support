@@ -1,0 +1,38 @@
+name: Share feedback
+description: Tell us what worked, what did not, or what you would like to see.
+title: "[Feedback] "
+labels:
+  - feedback
+  - inbox
+body:
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      options:
+        - Beautiful Thread Pulses
+        - Beautiful Thread Icons
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of feedback is this?
+      options:
+        - Bug
+        - Bad visual result
+        - Good result
+        - Feature idea
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Share details
+      description: A short message is enough. You can drag a screenshot here if it helps. Do not include private prompts, credentials, source code, project paths, or thread identifiers.
+      placeholder: Tell us what happened, what worked, or what you would like to see.
+    validations:
+      required: true
