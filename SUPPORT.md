@@ -1,18 +1,19 @@
 # Support
 
-Use the [GitHub Issues](https://github.com/saturdaifever/beautiful-thread-pulses-support/issues) page for product support, bug reports, and feature requests.
+Use the [simple feedback form](https://github.com/saturdaifever/beautiful-thread-pulses-support/issues/new?template=feedback.yml) for product support, bug reports, good or bad visual results, and feature requests.
 
-For Beautiful Thread Pulses, include:
+A short message is enough. You can drag a screenshot into the form if it helps.
+
+For Beautiful Thread Pulses, useful details include:
 
 - macOS version;
 - Stream Deck App version;
 - Stream Deck model or Mobile layout;
 - Beautiful Thread Pulses version;
 - the action or bundled profile involved;
-- clear reproduction steps;
-- screenshots with private thread, file, account, and project information removed.
+- clear reproduction steps.
 
-For Beautiful Thread Icons, include:
+For Beautiful Thread Icons, useful details include:
 
 - Stream Deck App version;
 - operating system;
