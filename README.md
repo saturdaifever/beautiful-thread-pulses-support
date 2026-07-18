@@ -10,5 +10,6 @@ Official public support pages for the Elgato Marketplace products by saturdaifev
 - [Setup guide](SETUP.md)
 - [Privacy policy](PRIVACY.md)
 - [Support and bug reports](SUPPORT.md)
+- [Third-party notices](THIRD_PARTY_NOTICES.md)
 
 Beautiful Thread Pulses is independent software. It is not affiliated with, endorsed by, or sponsored by OpenAI or Elgato.
